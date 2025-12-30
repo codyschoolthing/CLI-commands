@@ -6,7 +6,7 @@
 - cd [directory name] -> change the directory
     - .. -> goes up on directory
     - / -> separate navigating multiple directories
-- mkdir [directory name] -> makes a new dirctory
+- mkdir [directory name] -> makes a new directory
 - touch [file name] -> create a file
 -mv and rm -> moving and removing a file {I recommend doing this in the explorer bar} never use rm.
 - code [directory name] -> open VS Code
