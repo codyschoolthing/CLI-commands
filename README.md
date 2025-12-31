@@ -38,4 +38,14 @@
 3 stages
     - working directory (red)
     - staging area (green)
-    - project 
+    - project
+
+# File Naming and Structure for HTML and CSS files
+
+    - Don't use Special characters (! @ # $ % ^ & * ( ) / + =)
+    - Don't use speaces (use hyphens)
+    - Start the file name with a letter
+    - Use all lowercase letters separated by hyphens
+    - Keep your file names short and descriptive
+    - Always put a file extension on files
+    
